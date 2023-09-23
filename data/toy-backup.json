@@ -1,0 +1,26 @@
+[
+  {
+    "_id": 101,
+    "name": "Talking Doll",
+    "price": 150,
+    "labels": ["Doll", "Battery Powered", "Baby"],
+    "createdAt": 1631031801011,
+    "inStock": true
+  },
+  {
+    "_id": 102,
+    "name": "Monopoly",
+    "price": 140,
+    "labels": ["Box game"],
+    "createdAt": 1631031801011,
+    "inStock": true
+  },
+  {
+    "_id": 103,
+    "name": "Backgammon",
+    "price": 12,
+    "labels": ["Box game"],
+    "createdAt": 1631031801011,
+    "inStock": true
+  }
+]
